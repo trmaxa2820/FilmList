@@ -4,6 +4,7 @@ body {
     align-items: center;
     background-image: url('../resources/backgroundMain.jpg');
     background-size: 100%;
+    background-attachment: fixed;
 }
 
 h1 {
