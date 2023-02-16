@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    background-attachment: fixed;
 }
 
 h1 {
