@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    width: 100%
+    width: 100%;
     background-attachment: fixed;
     background-image: url('../resources/backgroundMain.jpg');
 }
