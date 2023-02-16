@@ -1,0 +1,36 @@
+body {
+    background-image: url('../resources/filmPageBackground.jpeg');
+    color: aqua;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0px;
+}
+
+a {
+    color: aqua;
+    font-size: 1em;
+}
+
+.filmContent {
+    width: 25%;
+    margin: 10px auto;
+}
+
+.filmContent-Img {
+    width: 100%;
+    margin: 0px;
+    border-radius: 2em;
+}
+
+.filmContent p {
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
