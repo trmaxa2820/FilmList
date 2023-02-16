@@ -18,8 +18,14 @@ a {
 }
 
 .filmContent {
-    width: 25%;
+    width: 40%;
     margin: 10px auto;
+}
+
+@media (max-width: 768px) {
+    .filmContent {
+        width: 75%;
+    }
 }
 
 .filmContent-Img {
@@ -35,4 +41,3 @@ a {
     text-align: justify;
     font-family: 'Courier New', Courier, monospace;
 }
-
